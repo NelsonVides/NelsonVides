@@ -1,6 +1,8 @@
 ### About me
 
-I'm a child of a multicultural journey. Born in Venezuela to a family of engineers and economists, I grew up in Spain to study pure maths in university and moved to Poland to become a self-taught programmer. After a few years as a C developer in security/telecommunication domains, I'm now an Erlang enthusiast with an emphasis on performance and security, a professional in the field of instant messaging and a core developer of MongooseIM. In my free time I'm a sports addict, practising yoga and callisthenics, and also a history fanboy, devouring books every night.
+I'm a child of a multicultural journey. Born in Venezuela to a family of engineers and economists, I grew up in Spain to study pure maths in university and moved to Poland to become a self-taught programmer. After a few years as a C developer in security/telecommunication domains, I'm now an Erlang evangelist with an emphasis on performance and security, a professional in the field of instant messaging and a core developer of [MongooseIM](https://github.com/esl/MongooseIM).
+
+In my free time I'm a sports addict, I have a black belt in Karate, which I practiced from early childhood until my mid 20s, now practicing mainly yoga. I traveled by bike most of Western and Central Europe, and I'm also a history fanboy, history is the hobby I don't get paid for.
 
 ### Work
 ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533)
