@@ -1,6 +1,6 @@
 ### About me
 
-I'm a child of a multicultural journey. Born in Venezuela to a family of engineers and economists, I grew up in Spain to study pure maths in university and moved to Poland to become a self-taught programmer. After a few years as a C developer in security/telecommunication domains, I'm now an Erlang evangelist with an emphasis on performance and security, a professional in the field of instant messaging and a core developer of [MongooseIM](https://github.com/esl/MongooseIM).
+I'm a child of a multicultural journey. Born in Venezuela to a family of engineers and economists, I grew up in Spain to study pure maths in university and moved to Poland to become a self-taught programmer. After a few years as a C developer in security/telecommunication domains, I'm now an Erlang evangelist with an emphasis on performance and security, a professional in the field of instant messaging and a core developer of [MongooseIM](https://github.com/esl/MongooseIM) and [amoc](https://github.com/esl/amoc).
 
 In my free time I'm a sports addict, I have a black belt in Karate, which I practiced from early childhood until my mid 20s, now practicing mainly yoga. I traveled by bike most of Western and Central Europe, and I'm also a history fanboy, history is the hobby I don't get paid for.
 
@@ -23,6 +23,14 @@ In my free time I'm a sports addict, I have a black belt in Karate, which I prac
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://firefox.com/)
 [![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)](https://www.wireguard.com/)
+
+### Stats
+<table>
+  <tr>
+    <td><a href="https://github.com/NelsonVides"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NelsonVides&theme=dark" height="220em" /></a></td>
+    <td><a href="https://github.com/NelsonVides"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NelsonVides&theme=dark" height="220em" /></a></td>
+  </tr>
+</table>
 
 <!--
 **NelsonVides/NelsonVides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
