@@ -1,8 +1,36 @@
-### About me
+## About me
 
-I'm a child of a multicultural journey. Born in Venezuela to a family of engineers and economists, I grew up in Spain to study pure maths in university and moved to Poland to become a self-taught programmer. After a few years as a C developer in security/telecommunication domains, I'm now an Erlang evangelist with an emphasis on performance and security, a professional in the field of instant messaging and a core developer of [MongooseIM](https://github.com/esl/MongooseIM) and [amoc](https://github.com/esl/amoc).
+I'm a child of a multicultural journey. Born in Venezuela to a family of engineers and economists, I grew up in Spain to study pure maths in university and moved to Poland to become a self-taught programmer. After a few years as a C developer in security/telecommunication domains, I'm now an Erlang senior with an emphasis on performance and security.
 
 In my free time I'm a sports addict, I have a black belt in Karate, which I practiced from early childhood until my mid 20s, now practicing mainly yoga. I traveled by bike most of Western and Central Europe, and I'm also a history fanboy, history is the hobby I don't get paid for.
+
+See [my LinkedIn](https://www.linkedin.com/in/nelson-vides/) for more information about me.
+
+### Public projects I have heavily contributed to:
+
+#### Instant Messaging
+- https://github.com/esl/MongooseIM: an extensible and scalable instant messaging server
+
+#### DNS
+- https://github.com/dnsimple/erldns: a nameserver
+- https://github.com/dnsimple/dns_erlang: an encoding and decoding library
+
+#### Utilities
+- https://github.com/prometheus-erl/prometheus.erl: a Prometheus/OpenMetrics client library for the BEAM
+- https://github.com/esl/amoc: a load testing framework
+- https://github.com/inaka/worker_pool: a static worker pool library for the BEAM
+- https://github.com/dnsimple/bugsnag-erlang: an InsightHub/BugSnag
+- https://github.com/esl/base16: fast base16 encoding/decoding for erlang
+- https://github.com/dnsimple/base32_erlang: fast base32 encoding/decoding for erlang
+
+### Projects I created from scratch and for which I am the main maintainer:
+- https://github.com/NelsonVides/ddskerl: a DDSketch implementation for the BEAM
+- https://github.com/esl/opuntia: a Token-Bucket shaper algorithm
+- https://github.com/esl/fast_pbkdf2: fastest PBKDF2 implementation for Erlang, beating OpenSSL itself
+- https://github.com/esl/fast_scram: a functional implementation of the SCRAM algorithm
+- https://github.com/esl/segmented_cache: a bucketed cache with cheap book-keeping
+
+##
 
 ### Work
 [![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533)](https://www.erlang.org/)
