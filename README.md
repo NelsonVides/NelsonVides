@@ -8,18 +8,18 @@ See [my LinkedIn](https://www.linkedin.com/in/nelson-vides/) for more informatio
 
 ### Public projects I have heavily contributed to:
 
-#### Instant Messaging
-- https://github.com/esl/MongooseIM: an extensible and scalable instant messaging server
-
 #### DNS
 - https://github.com/dnsimple/erldns: a nameserver
 - https://github.com/dnsimple/dns_erlang: an encoding and decoding library
+
+#### Instant Messaging
+- https://github.com/esl/MongooseIM: an extensible and scalable instant messaging server
 
 #### Utilities
 - https://github.com/prometheus-erl/prometheus.erl: a Prometheus/OpenMetrics client library for the BEAM
 - https://github.com/esl/amoc: a load testing framework
 - https://github.com/inaka/worker_pool: a static worker pool library for the BEAM
-- https://github.com/dnsimple/bugsnag-erlang: an InsightHub/BugSnag
+- https://github.com/dnsimple/bugsnag-erlang: an InsightHub/BugSnag library
 - https://github.com/esl/base16: fast base16 encoding/decoding for erlang
 - https://github.com/dnsimple/base32_erlang: fast base32 encoding/decoding for erlang
 
