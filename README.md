@@ -4,7 +4,7 @@ I'm a child of a multicultural journey. Born in Venezuela to a family of enginee
 
 In my free time I'm a sports addict, I have a black belt in Karate, which I practiced from early childhood until my mid 20s, now practicing mainly yoga. I traveled by bike most of Western and Central Europe, and I'm also a history fanboy, history is the hobby I don't get paid for.
 
-See [my LinkedIn](https://www.linkedin.com/in/nelson-vides/) for more information about me.
+See [videsnelson.com](https://videsnelson.com) and [my LinkedIn](https://www.linkedin.com/in/nelson-vides/) for more information about me.
 
 ### Public projects I have heavily contributed to:
 
